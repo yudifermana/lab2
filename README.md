@@ -1,4 +1,4 @@
-# lab2
+
 '''html
 <!DOCTYPE html>
 <html lang="en">
@@ -18,7 +18,7 @@
     </nav>
     <!-- CSS ID Selector -->
     <div id="intro">
-        <h1>Muhammad Din Al Ayubi</h1>
+        <h1>Yudi Fermana</h1>
         <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman
 Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat
 adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML
