@@ -1,3 +1,4 @@
+![IMG_20230528_082128](https://github.com/yudifermana/lab2/assets/115516653/231d0342-c420-4b23-a710-d03f0beab7e5)
 
 '''html
 <!DOCTYPE html>
